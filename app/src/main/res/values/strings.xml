@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RevisionPersonnelle</string>
+    <string name="texte1">Je suis le texte 1</string>
+    <string name="texte2">Je suis le texte 2</string>
+    <string name="texte3">Je suis le texte 3</string>
+    <string name="texte4">Je suis le texte 4</string>
+
+</resources>
